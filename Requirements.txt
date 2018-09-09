@@ -1,0 +1,5 @@
+----------REQUIREMENTS----------
+*Python2.7
+*Scrapy Framework
+*Docker
+*Splash
